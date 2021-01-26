@@ -1,6 +1,6 @@
-# JSON Server [![](https://travis-ci.org/typicode/json-server.svg?branch=master)](https://travis-ci.org/typicode/json-server) [![](https://badge.fury.io/js/json-server.svg)](http://badge.fury.io/js/json-server)
+# JSON Server
 
-Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
+Get a full fake REST API with __zero coding__ in __less than 30 seconds__ 
 
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 
@@ -11,32 +11,6 @@ Created with <3 for front-end developers who need a quick back-end for prototypi
 See also:
 * :dog: [husky - Git hooks made easy](https://github.com/typicode/husky)
 * :hotel: [hotel - developer tool with local .localhost domain and https out of the box](https://github.com/typicode/hotel)
-
-<p>&nbsp;</p>
-
-<h2 align="center">Gold sponsors 🥇</h2>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://tryretool.com/?utm_source=sponsor&utm_campaign=typicode" target="_blank">
-    <img src="https://i.imgur.com/IBItATn.png" height="70px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://mockend.com/" target="_blank">
-    <img src="https://mockend.com/banner.svg" height="70px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-[Become a sponsor and have your company logo here](https://github.com/users/typicode/sponsorship)
 
 ## Table of contents
 
